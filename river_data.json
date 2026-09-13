@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13 11:21",
+  "fetched_at": "2026-09-13 15:52",
   "ideal_min": 100,
   "ideal_max": 600,
   "ideal_label": "100-600 CFS",
@@ -14,7 +14,7 @@
       "paddle_type": "river",
       "latest_flow": 7.57,
       "latest_gage": 8.5,
-      "latest_dt": "2026-09-13T05:30:00.000-05:00",
+      "latest_dt": "2026-09-13T10:30:00.000-05:00",
       "condition": {
         "label": "Too Low",
         "color": "#ef4444"
@@ -22,7 +22,7 @@
       "hist_flow": [
         {
           "dt": "2026-06-14",
-          "value": 905.17
+          "value": 914.71
         },
         {
           "dt": "2026-06-15",
@@ -386,13 +386,13 @@
         },
         {
           "dt": "2026-09-13",
-          "value": 7.57
+          "value": 7.56
         }
       ],
       "hist_gage": [
         {
           "dt": "2026-06-14",
-          "value": 14.9
+          "value": 14.93
         },
         {
           "dt": "2026-06-15",
@@ -1873,7 +1873,7 @@
       "paddle_type": "river",
       "latest_flow": 417.0,
       "latest_gage": 6.5,
-      "latest_dt": "2026-09-13T05:30:00.000-05:00",
+      "latest_dt": "2026-09-13T10:30:00.000-05:00",
       "condition": {
         "label": "Ideal",
         "color": "#3b82f6"
@@ -1881,7 +1881,7 @@
       "hist_flow": [
         {
           "dt": "2026-06-14",
-          "value": 2394.29
+          "value": 2400.19
         },
         {
           "dt": "2026-06-15",
@@ -2245,13 +2245,13 @@
         },
         {
           "dt": "2026-09-13",
-          "value": 421.43
+          "value": 419.28
         }
       ],
       "hist_gage": [
         {
           "dt": "2026-06-14",
-          "value": 14.15
+          "value": 14.17
         },
         {
           "dt": "2026-06-15",
@@ -2615,7 +2615,7 @@
         },
         {
           "dt": "2026-09-13",
-          "value": 6.52
+          "value": 6.51
         }
       ],
       "yoy_labels": [
@@ -3730,9 +3730,9 @@
       "lat": 32.8893,
       "lon": -96.7567,
       "paddle_type": "river",
-      "latest_flow": 2.54,
-      "latest_gage": 69.92,
-      "latest_dt": "2026-09-13T06:15:00.000-05:00",
+      "latest_flow": 2.67,
+      "latest_gage": 69.93,
+      "latest_dt": "2026-09-13T10:15:00.000-05:00",
       "condition": {
         "label": "Too Low",
         "color": "#ef4444"
@@ -3740,7 +3740,7 @@
       "hist_flow": [
         {
           "dt": "2026-06-14",
-          "value": 130.61
+          "value": 151.94
         },
         {
           "dt": "2026-06-15",
@@ -4104,13 +4104,13 @@
         },
         {
           "dt": "2026-09-13",
-          "value": 2.29
+          "value": 2.44
         }
       ],
       "hist_gage": [
         {
           "dt": "2026-06-14",
-          "value": 71.18
+          "value": 71.36
         },
         {
           "dt": "2026-06-15",
@@ -4474,7 +4474,7 @@
         },
         {
           "dt": "2026-09-13",
-          "value": 69.9
+          "value": 69.91
         }
       ],
       "yoy_labels": [
@@ -5589,9 +5589,9 @@
       "lat": 32.878,
       "lon": -96.545,
       "paddle_type": "lake",
-      "latest_flow": 27.6,
-      "latest_gage": 6.37,
-      "latest_dt": "2026-09-13T05:15:00.000-05:00",
+      "latest_flow": 27.1,
+      "latest_gage": 6.36,
+      "latest_dt": "2026-09-13T10:15:00.000-05:00",
       "condition": {
         "label": "Good - Flat Water",
         "color": "#22c55e"
@@ -5899,13 +5899,13 @@
         },
         {
           "dt": "2026-09-13",
-          "value": 27.6
+          "value": 27.45
         }
       ],
       "hist_gage": [
         {
           "dt": "2026-06-14",
-          "value": 14.1
+          "value": 14.47
         },
         {
           "dt": "2026-06-15",
