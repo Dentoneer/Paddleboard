@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-03 15:57",
+  "fetched_at": "2026-10-03 20:46",
   "ideal_min": 100,
   "ideal_max": 600,
   "ideal_label": "100-600 CFS",
@@ -12,9 +12,9 @@
       "lat": 33.3497222,
       "lon": -97.0355556,
       "paddle_type": "river",
-      "latest_flow": 7.57,
-      "latest_gage": 8.5,
-      "latest_dt": "2026-10-03T10:30:00.000-05:00",
+      "latest_flow": 7.2,
+      "latest_gage": 8.49,
+      "latest_dt": "2026-10-03T15:30:00.000-05:00",
       "condition": {
         "label": "Too Low",
         "color": "#ef4444"
@@ -22,7 +22,7 @@
       "hist_flow": [
         {
           "dt": "2026-07-04",
-          "value": 383.27
+          "value": 382.53
         },
         {
           "dt": "2026-07-05",
@@ -392,7 +392,7 @@
       "hist_gage": [
         {
           "dt": "2026-07-04",
-          "value": 11.37
+          "value": 11.36
         },
         {
           "dt": "2026-07-05",
@@ -1871,9 +1871,9 @@
       "lat": 33.0456773,
       "lon": -96.9611173,
       "paddle_type": "river",
-      "latest_flow": 257.0,
-      "latest_gage": 5.74,
-      "latest_dt": "2026-10-03T10:30:00.000-05:00",
+      "latest_flow": 259.0,
+      "latest_gage": 5.75,
+      "latest_dt": "2026-10-03T15:30:00.000-05:00",
       "condition": {
         "label": "Good",
         "color": "#22c55e"
@@ -1881,7 +1881,7 @@
       "hist_flow": [
         {
           "dt": "2026-07-04",
-          "value": 1525.38
+          "value": 1522.5
         },
         {
           "dt": "2026-07-05",
@@ -2245,13 +2245,13 @@
         },
         {
           "dt": "2026-10-03",
-          "value": 260.12
+          "value": 259.0
         }
       ],
       "hist_gage": [
         {
           "dt": "2026-07-04",
-          "value": 11.22
+          "value": 11.21
         },
         {
           "dt": "2026-07-05",
@@ -2615,7 +2615,7 @@
         },
         {
           "dt": "2026-10-03",
-          "value": 5.76
+          "value": 5.75
         }
       ],
       "yoy_labels": [
@@ -3730,17 +3730,17 @@
       "lat": 32.8893,
       "lon": -96.7567,
       "paddle_type": "river",
-      "latest_flow": 58.3,
-      "latest_gage": 70.75,
-      "latest_dt": "2026-10-03T10:15:00.000-05:00",
+      "latest_flow": 146.0,
+      "latest_gage": 71.38,
+      "latest_dt": "2026-10-03T15:15:00.000-05:00",
       "condition": {
-        "label": "Marginal",
-        "color": "#f97316"
+        "label": "Good",
+        "color": "#22c55e"
       },
       "hist_flow": [
         {
           "dt": "2026-07-04",
-          "value": 17.93
+          "value": 17.8
         },
         {
           "dt": "2026-07-05",
@@ -4104,7 +4104,7 @@
         },
         {
           "dt": "2026-10-03",
-          "value": 75.86
+          "value": 84.55
         }
       ],
       "hist_gage": [
@@ -4474,7 +4474,7 @@
         },
         {
           "dt": "2026-10-03",
-          "value": 70.89
+          "value": 70.95
         }
       ],
       "yoy_labels": [
@@ -5589,9 +5589,9 @@
       "lat": 32.878,
       "lon": -96.545,
       "paddle_type": "lake",
-      "latest_flow": 39.0,
-      "latest_gage": 6.59,
-      "latest_dt": "2026-10-03T10:15:00.000-05:00",
+      "latest_flow": 30.2,
+      "latest_gage": 6.42,
+      "latest_dt": "2026-10-03T15:15:00.000-05:00",
       "condition": {
         "label": "Good - Flat Water",
         "color": "#22c55e"
@@ -5599,7 +5599,7 @@
       "hist_flow": [
         {
           "dt": "2026-07-04",
-          "value": 25.97
+          "value": 26.4
         },
         {
           "dt": "2026-07-05",
@@ -5963,13 +5963,13 @@
         },
         {
           "dt": "2026-10-03",
-          "value": 64.11
+          "value": 54.26
         }
       ],
       "hist_gage": [
         {
           "dt": "2026-07-04",
-          "value": 6.34
+          "value": 6.35
         },
         {
           "dt": "2026-07-05",
@@ -6333,7 +6333,7 @@
         },
         {
           "dt": "2026-10-03",
-          "value": 7.09
+          "value": 6.89
         }
       ],
       "yoy_labels": [
