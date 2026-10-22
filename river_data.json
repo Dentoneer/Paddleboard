@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21 21:24",
+  "fetched_at": "2026-10-22 03:55",
   "ideal_min": 100,
   "ideal_max": 600,
   "ideal_label": "100-600 CFS",
@@ -12,9 +12,9 @@
       "lat": 33.3497222,
       "lon": -97.0355556,
       "paddle_type": "river",
-      "latest_flow": 7.2,
-      "latest_gage": 8.49,
-      "latest_dt": "2026-10-21T15:30:00.000-05:00",
+      "latest_flow": 7.57,
+      "latest_gage": 8.5,
+      "latest_dt": "2026-10-21T22:30:00.000-05:00",
       "condition": {
         "label": "Too Low",
         "color": "#ef4444"
@@ -22,7 +22,7 @@
       "hist_flow": [
         {
           "dt": "2026-07-22",
-          "value": 19.92
+          "value": 20.18
         },
         {
           "dt": "2026-07-23",
@@ -386,13 +386,13 @@
         },
         {
           "dt": "2026-10-21",
-          "value": 7.53
+          "value": 7.54
         }
       ],
       "hist_gage": [
         {
           "dt": "2026-07-22",
-          "value": 8.77
+          "value": 8.78
         },
         {
           "dt": "2026-07-23",
@@ -1871,9 +1871,9 @@
       "lat": 33.0456773,
       "lon": -96.9611173,
       "paddle_type": "river",
-      "latest_flow": 348.0,
-      "latest_gage": 6.17,
-      "latest_dt": "2026-10-21T15:30:00.000-05:00",
+      "latest_flow": 312.0,
+      "latest_gage": 5.99,
+      "latest_dt": "2026-10-21T22:30:00.000-05:00",
       "condition": {
         "label": "Ideal",
         "color": "#3b82f6"
@@ -1881,7 +1881,7 @@
       "hist_flow": [
         {
           "dt": "2026-07-22",
-          "value": 541.97
+          "value": 549.0
         },
         {
           "dt": "2026-07-23",
@@ -2245,13 +2245,13 @@
         },
         {
           "dt": "2026-10-21",
-          "value": 269.51
+          "value": 284.59
         }
       ],
       "hist_gage": [
         {
           "dt": "2026-07-22",
-          "value": 7.06
+          "value": 7.09
         },
         {
           "dt": "2026-07-23",
@@ -2615,7 +2615,7 @@
         },
         {
           "dt": "2026-10-21",
-          "value": 5.79
+          "value": 5.86
         }
       ],
       "yoy_labels": [
@@ -3730,9 +3730,9 @@
       "lat": 32.8893,
       "lon": -96.7567,
       "paddle_type": "river",
-      "latest_flow": 21.1,
-      "latest_gage": 70.2,
-      "latest_dt": "2026-10-21T16:15:00.000-05:00",
+      "latest_flow": 20.5,
+      "latest_gage": 70.19,
+      "latest_dt": "2026-10-21T22:15:00.000-05:00",
       "condition": {
         "label": "Too Low",
         "color": "#ef4444"
@@ -3740,7 +3740,7 @@
       "hist_flow": [
         {
           "dt": "2026-07-22",
-          "value": 5.58
+          "value": 4.73
         },
         {
           "dt": "2026-07-23",
@@ -4104,13 +4104,13 @@
         },
         {
           "dt": "2026-10-21",
-          "value": 16.31
+          "value": 17.75
         }
       ],
       "hist_gage": [
         {
           "dt": "2026-07-22",
-          "value": 70.03
+          "value": 70.0
         },
         {
           "dt": "2026-07-23",
@@ -4474,7 +4474,7 @@
         },
         {
           "dt": "2026-10-21",
-          "value": 70.11
+          "value": 70.14
         }
       ],
       "yoy_labels": [
@@ -5589,9 +5589,9 @@
       "lat": 32.878,
       "lon": -96.545,
       "paddle_type": "lake",
-      "latest_flow": 26.6,
-      "latest_gage": 6.35,
-      "latest_dt": "2026-10-21T16:15:00.000-05:00",
+      "latest_flow": 27.1,
+      "latest_gage": 6.36,
+      "latest_dt": "2026-10-21T22:15:00.000-05:00",
       "condition": {
         "label": "Good - Flat Water",
         "color": "#22c55e"
@@ -5599,7 +5599,7 @@
       "hist_flow": [
         {
           "dt": "2026-07-22",
-          "value": 26.97
+          "value": 27.6
         },
         {
           "dt": "2026-07-23",
@@ -5963,13 +5963,13 @@
         },
         {
           "dt": "2026-10-21",
-          "value": 26.62
+          "value": 26.63
         }
       ],
       "hist_gage": [
         {
           "dt": "2026-07-22",
-          "value": 6.36
+          "value": 6.37
         },
         {
           "dt": "2026-07-23",
