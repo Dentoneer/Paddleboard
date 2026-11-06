@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05 23:26",
+  "fetched_at": "2026-11-06 05:46",
   "ideal_min": 100,
   "ideal_max": 600,
   "ideal_label": "100-600 CFS",
@@ -14,16 +14,12 @@
       "paddle_type": "river",
       "latest_flow": 53.5,
       "latest_gage": 8.79,
-      "latest_dt": "2026-11-05T16:30:00.000-06:00",
+      "latest_dt": "2026-11-05T23:30:00.000-06:00",
       "condition": {
         "label": "Marginal",
         "color": "#f97316"
       },
       "hist_flow": [
-        {
-          "dt": "2026-08-06",
-          "value": 6.89
-        },
         {
           "dt": "2026-08-07",
           "value": 6.97
@@ -386,14 +382,10 @@
         },
         {
           "dt": "2026-11-05",
-          "value": 52.78
+          "value": 52.9
         }
       ],
       "hist_gage": [
-        {
-          "dt": "2026-08-06",
-          "value": 8.48
-        },
         {
           "dt": "2026-08-07",
           "value": 8.48
@@ -1871,18 +1863,14 @@
       "lat": 33.0456773,
       "lon": -96.9611173,
       "paddle_type": "river",
-      "latest_flow": 307.0,
-      "latest_gage": 5.73,
-      "latest_dt": "2026-11-05T16:30:00.000-06:00",
+      "latest_flow": 301.0,
+      "latest_gage": 5.7,
+      "latest_dt": "2026-11-05T22:30:00.000-06:00",
       "condition": {
         "label": "Ideal",
         "color": "#3b82f6"
       },
       "hist_flow": [
-        {
-          "dt": "2026-08-06",
-          "value": 458.08
-        },
         {
           "dt": "2026-08-07",
           "value": 454.53
@@ -2245,14 +2233,10 @@
         },
         {
           "dt": "2026-11-05",
-          "value": 310.34
+          "value": 308.42
         }
       ],
       "hist_gage": [
-        {
-          "dt": "2026-08-06",
-          "value": 6.69
-        },
         {
           "dt": "2026-08-07",
           "value": 6.67
@@ -2615,7 +2599,7 @@
         },
         {
           "dt": "2026-11-05",
-          "value": 5.74
+          "value": 5.73
         }
       ],
       "yoy_labels": [
@@ -3730,18 +3714,14 @@
       "lat": 32.8893,
       "lon": -96.7567,
       "paddle_type": "river",
-      "latest_flow": 18.3,
-      "latest_gage": 70.15,
-      "latest_dt": "2026-11-05T17:15:00.000-06:00",
+      "latest_flow": 15.5,
+      "latest_gage": 70.1,
+      "latest_dt": "2026-11-05T23:15:00.000-06:00",
       "condition": {
         "label": "Too Low",
         "color": "#ef4444"
       },
       "hist_flow": [
-        {
-          "dt": "2026-08-06",
-          "value": 2.98
-        },
         {
           "dt": "2026-08-07",
           "value": 2.6
@@ -4104,14 +4084,10 @@
         },
         {
           "dt": "2026-11-05",
-          "value": 19.18
+          "value": 18.68
         }
       ],
       "hist_gage": [
-        {
-          "dt": "2026-08-06",
-          "value": 69.94
-        },
         {
           "dt": "2026-08-07",
           "value": 69.92
@@ -4474,7 +4450,7 @@
         },
         {
           "dt": "2026-11-05",
-          "value": 70.17
+          "value": 70.16
         }
       ],
       "yoy_labels": [
@@ -5153,7 +5129,7 @@
         16.3,
         103.0,
         29.0,
-        null,
+        15.5,
         null,
         null,
         null,
@@ -5591,16 +5567,12 @@
       "paddle_type": "lake",
       "latest_flow": 27.1,
       "latest_gage": 6.36,
-      "latest_dt": "2026-11-05T17:15:00.000-06:00",
+      "latest_dt": "2026-11-05T23:15:00.000-06:00",
       "condition": {
         "label": "Good - Flat Water",
         "color": "#22c55e"
       },
       "hist_flow": [
-        {
-          "dt": "2026-08-06",
-          "value": 26.37
-        },
         {
           "dt": "2026-08-07",
           "value": 26.79
@@ -5963,14 +5935,10 @@
         },
         {
           "dt": "2026-11-05",
-          "value": 27.72
+          "value": 27.51
         }
       ],
       "hist_gage": [
-        {
-          "dt": "2026-08-06",
-          "value": 6.35
-        },
         {
           "dt": "2026-08-07",
           "value": 6.35
@@ -6871,7 +6839,7 @@
         27.1,
         27.2,
         27.2,
-        null,
+        26.6,
         null,
         null,
         null,
